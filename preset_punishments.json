@@ -1,0 +1,35 @@
+{
+	"mute_LEVEL_1": [
+	  {
+	    "reason": "Over Capitalization",
+	    "description": "Excessive use of caps in chat",
+	    "warn": "Give verbal warning first"
+	  },
+	  {
+	    "reason": "Chat Spam",
+	    "description": "Spamming chat",
+	    "warn": "View \"Chat Flood\" first"
+	  }
+	],
+	"mute_LEVEL_2": [
+	  {
+	    "reason": "Chat Flood",
+	    "description": "Useless or harmful chat spam"
+	  }
+	],
+	"mute_LEVEL_3": [
+	  
+	],
+	"mute_PERMANENT": [
+	  
+	],
+	"ban_LEVEL_1": [
+	  
+	],
+	"ban_LEVEL_2": [
+	  
+	],
+	"ban_PERMANENT": [
+	  
+	]
+}
