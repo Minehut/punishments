@@ -1,8 +1,8 @@
 {
 	"mute_level_1": [
 	  {
-	    "reason": "Over Advertising (once every 2 minutes please)",
-	    "description": "Excessive advertising"
+	    "reason": "Excessive PServer Advertising (More than 1 per 2 minutes)",
+	    "description": "Excessive advertising of player servers"
 	  },
 	  {
 	    "reason": "Over Capitalization",
@@ -43,7 +43,7 @@
 	  {
 	    "reason": "External Server Advertisement",
 	    "description": "Advertising an external server",
-		"warn": "Make sure it's not a player server name"
+	    "warn": "Verify it is not a player server name"
 	  },
 	  {
 	    "reason": "Competitor Advertisement",
