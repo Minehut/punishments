@@ -13,6 +13,14 @@
 	  {
 	    "reason": "Realms Advertisement",
 	    "description": "Asking users to join their Minecraft realm"
+	  },
+	  {
+	    "reason": "General Discrespect",
+	    "description": "Slight disrespect toward other users"
+	  },
+	  {
+	    "reason": "Bypassing Chat Filter",
+	    "description": "Overtly bypassing chat filter"
 	  }
 	],
 	"mute_level_2": [
@@ -43,6 +51,16 @@
 	    "reason": "Team Griefing",
 	    "description": "Purposefully griefing team",
 	    "warn": "Only punishable in official games"
+	  },
+	  {
+	    "reason": "Abusing Bugs",
+	    "description": "Purposefully abusing known bugs",
+	    "warn": "Only punishable in official servers"
+	  },
+	  {
+	    "reason": "Bypassing Mute",
+	    "description": "Purposefully circumventing mute",
+	    "warn": "Only punishable in official servers"
 	  }
 	],
 	"ban_level_2": [
