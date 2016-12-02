@@ -1,6 +1,10 @@
 {
 	"mute_level_1": [
 	  {
+	    "reason": "Over Advertising (once every 2 minutes please)",
+	    "description": "Excessive advertising"
+	  },
+	  {
 	    "reason": "Over Capitalization",
 	    "description": "Excessive use of caps in chat",
 	    "warn": "Give verbal warning first"
@@ -38,7 +42,8 @@
 	"mute_permanent": [
 	  {
 	    "reason": "External Server Advertisement",
-	    "description": "Advertising an external server"
+	    "description": "Advertising an external server",
+		"warn": "Make sure it's not a player server name"
 	  },
 	  {
 	    "reason": "Competitor Advertisement",
