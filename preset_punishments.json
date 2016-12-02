@@ -10,13 +10,23 @@
 	    "warn": "Give verbal warning first"
 	  },
 	  {
+	    "reason": "Advertising Player Server in Offical Game",
+	    "description": "Advertising a player server in an official game",
+	    "warn": "Does not include lobby, just official games"
+	  },
+	  {
 	    "reason": "Chat Spam",
-	    "description": "Spamming chat",
+	    "description": "Spamming chat (includes private messages)",
 	    "warn": "View \"Chat Flood\" first"
 	  },
 	  {
 	    "reason": "Realms Advertisement",
 	    "description": "Asking users to join their Minecraft realm"
+	  },
+	  {
+	    "reason": "Indirect Advertisement",
+	    "description": "Talking about other Minecraft servers",
+	    "warn": "Only light chat, view \"Direct Advertisement\""
 	  },
 	  {
 	    "reason": "General Discrespect",
@@ -31,12 +41,20 @@
 	  {
 	    "reason": "Chat Flood",
 	    "description": "Useless or harmful chat spam"
+	  },
+	  {
+	    "reason": "Direct Advertisement",
+	    "description": "Asking players to join or player other servers"
 	  }
 	],
 	"mute_level_3": [
 	  {
 	    "reason": "Discrimination",
 	    "description": "Discriminating against someone else"
+	  },
+	  {
+	    "reason": "Extreme Harassment",
+	    "description": "Only for extreme (or sexual) harassment"
 	  }
 	],
 	"mute_permanent": [
