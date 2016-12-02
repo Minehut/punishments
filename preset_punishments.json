@@ -9,6 +9,10 @@
 	    "reason": "Chat Spam",
 	    "description": "Spamming chat",
 	    "warn": "View \"Chat Flood\" first"
+	  },
+	  {
+	    "reason": "Realms Advertisement",
+	    "description": "Asking users to join their Minecraft realm"
 	  }
 	],
 	"mute_level_2": [
@@ -18,18 +22,44 @@
 	  }
 	],
 	"mute_level_3": [
-	  
+	  {
+	    "reason": "Discrimination",
+	    "description": "Discriminating against someone else"
+	  }
 	],
 	"mute_permanent": [
-	  
+	  {
+	    "reason": "External Server Advertisement",
+	    "description": "Advertising an external server"
+	  },
+	  {
+	    "reason": "Competitor Advertisement",
+	    "description": "Directly advertising a competitor (server host)",
+	    "warn": "Do not use this for just talking about one"
+	  }
 	],
 	"ban_level_1": [
-	  
+	  {
+	    "reason": "Team Griefing",
+	    "description": "Purposefully griefing team",
+	    "warn": "Only punishable in official games"
+	  }
 	],
 	"ban_level_2": [
-	  
+	  {
+	    "reason": "Client Modifcation",
+	    "description": "Advantageous client modification",
+	    "warn": "Be sure user is not lagging"
+	  }
 	],
 	"ban_permanent": [
-	  
+	  {
+	    "reason": "DDoS Threats",
+	    "description": "Threatening to DDoS server or players"
+	  },
+	  {
+	    "reason": "Revealing Personal Information",
+	    "description": "Revealing personal info"
+	  }
 	]
 }
