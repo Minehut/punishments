@@ -1,7 +1,7 @@
 {
 	"mute_level_1": [
 	  {
-	    "reason": "Excessive PServer Advertising (More than 1 per 2 minutes)",
+	    "reason": "Only share your server once every 2 minutes!",
 	    "description": "Excessive advertising of player servers"
 	  },
 	  {
