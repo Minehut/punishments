@@ -40,7 +40,7 @@
 	"mute_level_2": [
 	  {
 	    "reason": "Chat Flood",
-	    "description": "Useless or harmful chat spam"
+	    "description": "Useless or harmful chat spam (includes char spam)"
 	  },
 	  {
 	    "reason": "Direct Advertisement",
