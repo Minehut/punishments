@@ -86,14 +86,12 @@
 	    "warn": "Only punishable in official servers"
 	  }
 	],
-	"ban_level_2": [
+	"ban_permanent": [
 	  {
-	    "reason": "Client Modifcation",
+	    "reason": "Client Modifcation (Hacked Client)",
 	    "description": "Advantageous client modification",
 	    "warn": "Be sure user is not lagging"
-	  }
-	],
-	"ban_permanent": [
+	  },
 	  {
 	    "reason": "DDoS Threats",
 	    "description": "Threatening to DDoS server or players"
