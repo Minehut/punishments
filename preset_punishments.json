@@ -1,4 +1,14 @@
 {
+	"warn_level_1": [
+	  {			
+	    "reason": "General Disrespect",
+	    "description": "Disrespect of other players in chat/messages"	  
+	  },
+	  {
+	    "reason": "Client Modifications in Lobby (disable on official servers)",
+	    "description": "Use of client modifications in the lobby (ban if they won't disable them)"
+	  }
+	],
 	"mute_level_1": [
 	  {
 	    "reason": "Only share servers once every 2 minutes",
