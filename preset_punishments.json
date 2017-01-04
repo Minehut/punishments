@@ -11,7 +11,7 @@
 	],
 	"mute_level_1": [
 	  {
-	    "reason": "Only share servers once every 2 minutes",
+	    "reason": "Only share servers once every 2 minutes (lobby chats are shared)",
 	    "description": "Excessive advertising of player servers"
 	  },
 	  {
