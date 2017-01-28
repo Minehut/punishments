@@ -15,6 +15,10 @@
 	    "description": "Excessive advertising of player servers"
 	  },
 	  {
+	    "reason": "Discord Advertisement",
+	    "description": "Advertising community / player server discords"
+	  },
+	  {
 	    "reason": "Over Capitalization",
 	    "description": "Excessive use of caps in chat",
 	    "warn": "Give verbal warning first"
@@ -102,6 +106,13 @@
 	  {
 	    "reason": "Inappropriate Server Name",
 	    "description": "User has an inappropriate server name"
+	  }
+	],
+	"ban_level_3": [
+	  {
+	    "reason": "Staff Impersonation",
+	    "description": "Impersonating staff members",
+	    "warn": "Not just name, must clearly impersonate"
 	  }
 	],
 	"ban_permanent": [
