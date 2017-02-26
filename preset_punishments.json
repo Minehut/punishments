@@ -11,8 +11,8 @@
 	],
 	"mute_level_1": [
 	  {
-	    "reason": "Only share servers once every 2 minutes (lobby chats are shared)",
-	    "description": "Excessive advertising of player servers"
+	    "reason": "Player Server Advertisement",
+	    "description": "Advertising of player servers in lobby"
 	  },
 	  {
 	    "reason": "Discord Advertisement",
@@ -45,10 +45,6 @@
 	  {
 	    "reason": "General Discrespect",
 	    "description": "Slight disrespect toward other users"
-	  },
-	  {
-	    "reason": "Bypassing Chat Filter",
-	    "description": "Overtly bypassing chat filter"
 	  }
 	],
 	"mute_level_2": [
@@ -57,12 +53,12 @@
 	    "description": "Useless or harmful chat spam (includes char spam)"
 	  },
 	  {
-	    "reason": "Toxicity",
-	    "description:": "Insulting or harassing players. Example: kys"
-	  },
-	  {
 	    "reason": "Direct Advertisement",
 	    "description": "Asking players to join or player other servers"
+	  },
+	  {
+	    "reason": "Bypassing Chat Filter",
+	    "description": "Overtly bypassing chat filter"
 	  }
 	],
 	"mute_level_3": [
@@ -105,7 +101,7 @@
 	  },
 	  {
 	    "reason": "Inappropriate Server Name",
-	    "description": "User has an inappropriate server name"
+	    "description": "User has an inappropriate/advertising server name"
 	  }
 	],
 	"ban_level_3": [
