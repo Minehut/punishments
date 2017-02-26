@@ -53,6 +53,10 @@
 	    "description": "Useless or harmful chat spam (includes char spam)"
 	  },
 	  {
+	    "reason": "Inappropriate Behavior",
+	    "description": "Inappropriate chat behavior"
+	  },
+	  {
 	    "reason": "Direct Advertisement",
 	    "description": "Asking players to join or player other servers"
 	  },
