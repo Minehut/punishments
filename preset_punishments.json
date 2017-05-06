@@ -58,11 +58,11 @@
 	  },
 	  {
 	    "reason": "Direct Advertisement",
-	    "description": "Asking players to join or player other servers"
+	    "description": "Asking players to join or play on other servers"
 	  },
 	  {
 	    "reason": "Bypassing Chat Filter",
-	    "description": "Overtly bypassing chat filter"
+	    "description": "Overly bypassing chat filter"
 	  }
 	],
 	"mute_level_3": [
